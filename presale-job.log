@@ -1,0 +1,1106 @@
+2025-01-02 22:18:03 [INFO] - Current Date and Time: 1/2/2025, 10:18:03 PM
+2025-01-02 22:18:04 [INFO] - Number of pending transactions: 2
+2025-01-02 22:18:04 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:18:05 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:18:05 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:18:05 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:18:06 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:18:06 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:18:15 [INFO] - Current Date and Time: 1/2/2025, 10:18:15 PM
+2025-01-02 22:18:16 [INFO] - Number of pending transactions: 2
+2025-01-02 22:18:16 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:18:17 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:18:17 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:18:17 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:18:19 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:18:19 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:20:00 [INFO] - Current Date and Time: 1/2/2025, 10:20:00 PM
+2025-01-02 22:20:00 [INFO] - Number of pending transactions: 2
+2025-01-02 22:20:00 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:20:02 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:20:02 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:20:02 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:20:03 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511"
+}
+2025-01-02 22:20:03 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:20:27 [INFO] - Current Date and Time: 1/2/2025, 10:20:27 PM
+2025-01-02 22:20:28 [INFO] - Number of pending transactions: 2
+2025-01-02 22:20:28 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:20:30 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:20:30 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:20:30 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:20:31 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:20:31 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:20:41 [INFO] - Current Date and Time: 1/2/2025, 10:20:41 PM
+2025-01-02 22:20:42 [INFO] - Number of pending transactions: 2
+2025-01-02 22:20:42 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:20:44 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:20:44 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:20:44 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:20:44 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:20:44 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:21:09 [INFO] - Current Date and Time: 1/2/2025, 10:21:09 PM
+2025-01-02 22:21:10 [INFO] - Number of pending transactions: 2
+2025-01-02 22:21:10 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:21:11 [INFO] - Current Date and Time: 1/2/2025, 10:21:11 PM
+2025-01-02 22:21:11 [INFO] - Number of pending transactions: 2
+2025-01-02 22:21:11 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:21:13 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:21:13 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:21:13 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:21:13 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:21:13 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:21:40 [INFO] - Current Date and Time: 1/2/2025, 10:21:40 PM
+2025-01-02 22:21:41 [INFO] - Number of pending transactions: 2
+2025-01-02 22:21:41 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:21:43 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:21:43 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:21:43 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:21:43 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5"
+}
+2025-01-02 22:21:43 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:23:23 [INFO] - Current Date and Time: 1/2/2025, 10:23:23 PM
+2025-01-02 22:23:23 [INFO] - Number of pending transactions: 2
+2025-01-02 22:23:23 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:23:24 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:23:24 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:23:24 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:23:25 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:23:25 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:23:44 [INFO] - Current Date and Time: 1/2/2025, 10:23:44 PM
+2025-01-02 22:23:45 [INFO] - Number of pending transactions: 2
+2025-01-02 22:23:45 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:23:46 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:23:46 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:23:46 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:23:47 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:23:47 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:24:02 [INFO] - Current Date and Time: 1/2/2025, 10:24:02 PM
+2025-01-02 22:24:02 [INFO] - Number of pending transactions: 2
+2025-01-02 22:24:02 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:24:03 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:24:03 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:24:03 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:24:04 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:24:04 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:24:46 [INFO] - Current Date and Time: 1/2/2025, 10:24:46 PM
+2025-01-02 22:24:47 [INFO] - Number of pending transactions: 1
+2025-01-02 22:24:47 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:24:48 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:24:55 [INFO] - Current Date and Time: 1/2/2025, 10:24:55 PM
+2025-01-02 22:24:56 [INFO] - Number of pending transactions: 0
+2025-01-02 22:25:28 [INFO] - Current Date and Time: 1/2/2025, 10:25:28 PM
+2025-01-02 22:25:29 [INFO] - Number of pending transactions: 0
+2025-01-02 22:25:32 [INFO] - Current Date and Time: 1/2/2025, 10:25:32 PM
+2025-01-02 22:25:32 [INFO] - Number of pending transactions: 0
+2025-01-02 22:25:35 [INFO] - Current Date and Time: 1/2/2025, 10:25:35 PM
+2025-01-02 22:25:36 [INFO] - Number of pending transactions: 0
+2025-01-02 22:25:49 [INFO] - Current Date and Time: 1/2/2025, 10:25:49 PM
+2025-01-02 22:25:49 [INFO] - Number of pending transactions: 0
+2025-01-02 22:26:07 [INFO] - Current Date and Time: 1/2/2025, 10:26:07 PM
+2025-01-02 22:26:08 [INFO] - Number of pending transactions: 0
+2025-01-02 22:26:16 [INFO] - Current Date and Time: 1/2/2025, 10:26:16 PM
+2025-01-02 22:26:16 [INFO] - Number of pending transactions: 0
+2025-01-02 22:26:29 [INFO] - Current Date and Time: 1/2/2025, 10:26:29 PM
+2025-01-02 22:26:29 [INFO] - Number of pending transactions: 1
+2025-01-02 22:26:30 [INFO] - ⏳ Processing transaction hash: [object Object]
+2025-01-02 22:26:44 [INFO] - Current Date and Time: 1/2/2025, 10:26:44 PM
+2025-01-02 22:26:45 [INFO] - Number of pending transactions: 1
+2025-01-02 22:26:45 [INFO] - ⏳ Processing transaction hash: [object Object]
+2025-01-02 22:27:19 [INFO] - Current Date and Time: 1/2/2025, 10:27:19 PM
+2025-01-02 22:27:20 [INFO] - Number of pending transactions: 1
+2025-01-02 22:27:20 [INFO] - ⏳ Processing transaction hash: [object Object]
+2025-01-02 22:27:29 [INFO] - Current Date and Time: 1/2/2025, 10:27:29 PM
+2025-01-02 22:27:30 [INFO] - Number of pending transactions: 1
+2025-01-02 22:27:30 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 22:27:31 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:27:31 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:27:44 [INFO] - Current Date and Time: 1/2/2025, 10:27:44 PM
+2025-01-02 22:27:45 [INFO] - Number of pending transactions: 0
+2025-01-02 22:27:55 [INFO] - Current Date and Time: 1/2/2025, 10:27:55 PM
+2025-01-02 22:27:56 [INFO] - Number of pending transactions: 0
+2025-01-02 22:29:22 [INFO] - Current Date and Time: 1/2/2025, 10:29:22 PM
+2025-01-02 22:29:22 [INFO] - Number of pending transactions: 5
+2025-01-02 22:29:22 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:29:24 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:29:24 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:29:24 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:29:25 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:29:25 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:29:25 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:29:26 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:29:26 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 22:29:27 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:29:27 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:29:27 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 22:29:28 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 22:29:28 [INFO] - [object Object]
+2025-01-02 22:29:28 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:29:36 [INFO] - Current Date and Time: 1/2/2025, 10:29:36 PM
+2025-01-02 22:29:37 [INFO] - Number of pending transactions: 2
+2025-01-02 22:29:37 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:29:39 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:29:39 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:29:39 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:29:39 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:29:39 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:32:11 [INFO] - Current Date and Time: 1/2/2025, 10:32:11 PM
+2025-01-02 22:32:12 [INFO] - Number of pending transactions: 2
+2025-01-02 22:32:12 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:32:13 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:32:13 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:32:13 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:32:13 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:32:13 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:33:12 [INFO] - Current Date and Time: 1/2/2025, 10:33:12 PM
+2025-01-02 22:33:12 [INFO] - Number of pending transactions: 2
+2025-01-02 22:33:12 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:33:14 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:33:14 [ERROR] - Error fetching settings: Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from "users" where "id" = ? limit ?
+2025-01-02 22:33:14 [INFO] - [object Object]
+2025-01-02 22:33:14 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:33:14 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:33:15 [INFO] - Current Date and Time: 1/2/2025, 10:33:15 PM
+2025-01-02 22:33:15 [INFO] - Number of pending transactions: 1
+2025-01-02 22:33:15 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:33:17 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:33:17 [INFO] - [object Object]
+2025-01-02 22:33:17 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:33:43 [INFO] - Current Date and Time: 1/2/2025, 10:33:43 PM
+2025-01-02 22:33:44 [INFO] - Number of pending transactions: 0
+2025-01-02 22:35:46 [INFO] - Current Date and Time: 1/2/2025, 10:35:46 PM
+2025-01-02 22:35:47 [INFO] - Number of pending transactions: 0
+2025-01-02 22:35:54 [INFO] - Current Date and Time: 1/2/2025, 10:35:54 PM
+2025-01-02 22:35:55 [INFO] - Number of pending transactions: 5
+2025-01-02 22:35:55 [ERROR] - Unexpected error in main process: _tx is not defined
+2025-01-02 22:36:00 [INFO] - Current Date and Time: 1/2/2025, 10:36:00 PM
+2025-01-02 22:36:02 [INFO] - Number of pending transactions: 5
+2025-01-02 22:36:02 [ERROR] - Unexpected error in main process: _tx is not defined
+2025-01-02 22:36:09 [INFO] - Current Date and Time: 1/2/2025, 10:36:09 PM
+2025-01-02 22:36:10 [INFO] - Number of pending transactions: 5
+2025-01-02 22:36:10 [ERROR] - Unexpected error in main process: _tx is not defined
+2025-01-02 22:36:24 [INFO] - Current Date and Time: 1/2/2025, 10:36:24 PM
+2025-01-02 22:36:25 [INFO] - Number of pending transactions: 5
+2025-01-02 22:36:25 [INFO] - Current Date and Time: 1/2/2025, 10:36:25 PM
+2025-01-02 22:36:26 [INFO] - Number of pending transactions: 5
+2025-01-02 22:36:34 [INFO] - Current Date and Time: 1/2/2025, 10:36:34 PM
+2025-01-02 22:36:35 [INFO] - Number of pending transactions: 5
+2025-01-02 22:36:35 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:36:36 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:36:36 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 22:36:36 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:36:36 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:36:36 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 22:36:37 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 22:36:37 [INFO] - [object Object]
+2025-01-02 22:36:37 [ERROR] - ❌ Invalid destination address detected.
+2025-01-02 22:36:37 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:36:38 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:36:38 [INFO] - [object Object]
+2025-01-02 22:36:38 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:36:38 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:36:38 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:36:38 [INFO] - [object Object]
+2025-01-02 22:36:38 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:36:40 [INFO] - Current Date and Time: 1/2/2025, 10:36:40 PM
+2025-01-02 22:36:41 [INFO] - Number of pending transactions: 0
+2025-01-02 22:36:58 [INFO] - Current Date and Time: 1/2/2025, 10:36:58 PM
+2025-01-02 22:36:59 [INFO] - Number of pending transactions: 5
+2025-01-02 22:37:05 [INFO] - Current Date and Time: 1/2/2025, 10:37:05 PM
+2025-01-02 22:37:06 [INFO] - Number of pending transactions: 5
+2025-01-02 22:37:06 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:37:07 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:37:07 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 22:37:07 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:07 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:37:07 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 22:37:09 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 22:37:09 [INFO] - [object Object]
+2025-01-02 22:37:09 [ERROR] - ❌ Invalid destination address detected.
+2025-01-02 22:37:09 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:37:09 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:09 [INFO] - [object Object]
+2025-01-02 22:37:09 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:37:09 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:37:10 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:10 [INFO] - [object Object]
+2025-01-02 22:37:10 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:37:12 [INFO] - Current Date and Time: 1/2/2025, 10:37:12 PM
+2025-01-02 22:37:13 [INFO] - Number of pending transactions: 2
+2025-01-02 22:37:13 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:37:14 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:14 [INFO] - [object Object]
+2025-01-02 22:37:14 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:37:14 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:37:15 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:15 [INFO] - [object Object]
+2025-01-02 22:37:15 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:37:40 [INFO] - Current Date and Time: 1/2/2025, 10:37:40 PM
+2025-01-02 22:37:40 [INFO] - Number of pending transactions: 2
+2025-01-02 22:37:40 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:37:41 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:41 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:37:41 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:37:42 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:42 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:37:50 [INFO] - Current Date and Time: 1/2/2025, 10:37:50 PM
+2025-01-02 22:37:50 [INFO] - Number of pending transactions: 2
+2025-01-02 22:37:50 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:37:51 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:51 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:37:51 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:37:51 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:37:51 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:40:33 [INFO] - Current Date and Time: 1/2/2025, 10:40:33 PM
+2025-01-02 22:40:34 [INFO] - Number of pending transactions: 6
+2025-01-02 22:40:47 [INFO] - Current Date and Time: 1/2/2025, 10:40:47 PM
+2025-01-02 22:40:48 [INFO] - Number of pending transactions: 6
+2025-01-02 22:40:48 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:40:50 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:40:50 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:40:50 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:40:50 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:40:50 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:40:50 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:40:51 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 22:40:51 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 22:40:52 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:40:52 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 22:40:52 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 22:40:53 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 22:40:53 [INFO] - [object Object]
+2025-01-02 22:40:53 [ERROR] - ❌ Invalid destination address detected.
+2025-01-02 22:40:53 [INFO] - ⏳ Processing transaction hash: 0x602e47935215086c958440192224dd6935a7d6d23c86f7ba4fab524b8f25f4a0
+2025-01-02 22:40:54 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 20,
+  "SenderTx": "0x4863DB6F6B70fbEA2A8918FD2B68180eDFaaab3b",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:40:54 [INFO] - [object Object]
+2025-01-02 22:40:54 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 22:42:37 [INFO] - Current Date and Time: 1/2/2025, 10:42:37 PM
+2025-01-02 22:42:38 [INFO] - Current Date and Time: 1/2/2025, 10:42:38 PM
+2025-01-02 22:42:39 [INFO] - Number of pending transactions: 2
+2025-01-02 22:42:39 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:42:40 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:42:40 [INFO] - Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:42:40 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:42:41 [INFO] - ✅ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:42:42 [INFO] - Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:46:13 [INFO] - Current Date and Time: 1/2/2025, 10:46:13 PM
+2025-01-02 22:46:14 [INFO] - Number of pending transactions: 2
+2025-01-02 22:46:14 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:46:15 [INFO] - Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:46:15 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:46:15 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:46:16 [INFO] - Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:46:16 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:47:35 [INFO] - Current Date and Time: 1/2/2025, 10:47:35 PM
+2025-01-02 22:47:36 [INFO] - Number of pending transactions: 2
+2025-01-02 22:47:36 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:47:38 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:47:38 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:47:38 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:47:39 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:47:39 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:48:11 [INFO] - Current Date and Time: 1/2/2025, 10:48:11 PM
+2025-01-02 22:48:12 [INFO] - Number of pending transactions: 2
+2025-01-02 22:48:12 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:48:14 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:14 [ERROR] - Error processing transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9: users is not defined
+2025-01-02 22:48:14 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:48:15 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:15 [ERROR] - Error processing transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7: users is not defined
+2025-01-02 22:48:43 [INFO] - Current Date and Time: 1/2/2025, 10:48:43 PM
+2025-01-02 22:48:43 [INFO] - Number of pending transactions: 2
+2025-01-02 22:48:43 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:48:44 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:44 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:48:44 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:48:45 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:45 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:48:50 [INFO] - Current Date and Time: 1/2/2025, 10:48:50 PM
+2025-01-02 22:48:50 [INFO] - Number of pending transactions: 2
+2025-01-02 22:48:50 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:48:51 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:51 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:48:51 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:48:53 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:48:53 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:49:04 [INFO] - Current Date and Time: 1/2/2025, 10:49:04 PM
+2025-01-02 22:49:05 [INFO] - Current Date and Time: 1/2/2025, 10:49:05 PM
+2025-01-02 22:49:05 [INFO] - Number of pending transactions: 2
+2025-01-02 22:49:05 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:49:07 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:49:07 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:49:07 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:49:08 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:49:08 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:50:10 [INFO] - Current Date and Time: 1/2/2025, 10:50:10 PM
+2025-01-02 22:50:11 [INFO] - Number of pending transactions: 2
+2025-01-02 22:50:11 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:50:12 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:13 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:50:13 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:50:14 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:14 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:50:21 [INFO] - Current Date and Time: 1/2/2025, 10:50:21 PM
+2025-01-02 22:50:21 [INFO] - Number of pending transactions: 2
+2025-01-02 22:50:21 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:50:22 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:22 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:50:22 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:50:23 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:23 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:50:51 [INFO] - Current Date and Time: 1/2/2025, 10:50:51 PM
+2025-01-02 22:50:52 [INFO] - Number of pending transactions: 2
+2025-01-02 22:50:52 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:50:54 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:54 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:50:54 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:50:55 [INFO] - Current Date and Time: 1/2/2025, 10:50:55 PM
+2025-01-02 22:50:55 [INFO] - Number of pending transactions: 2
+2025-01-02 22:50:55 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:50:57 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:57 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:50:57 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:50:58 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:50:58 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:51:04 [INFO] - Current Date and Time: 1/2/2025, 10:51:04 PM
+2025-01-02 22:51:04 [INFO] - Number of pending transactions: 2
+2025-01-02 22:51:04 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:51:05 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:51:05 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:51:05 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:51:07 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:51:07 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:52:13 [INFO] - Current Date and Time: 1/2/2025, 10:52:13 PM
+2025-01-02 22:52:14 [INFO] - Current Date and Time: 1/2/2025, 10:52:14 PM
+2025-01-02 22:52:14 [INFO] - Number of pending transactions: 2
+2025-01-02 22:52:14 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:52:15 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:52:15 [INFO] - details transaction :
+2025-01-02 22:52:15 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:52:15 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:52:16 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:52:16 [INFO] - details transaction :
+2025-01-02 22:52:16 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:52:34 [INFO] - Current Date and Time: 1/2/2025, 10:52:34 PM
+2025-01-02 22:52:35 [INFO] - Number of pending transactions: 2
+2025-01-02 22:52:35 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:52:36 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:52:36 [INFO] - details transaction :
+2025-01-02 22:52:36 [INFO] - [object Object]
+2025-01-02 22:52:36 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:52:36 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:52:37 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:52:37 [INFO] - details transaction :
+2025-01-02 22:52:37 [INFO] - [object Object]
+2025-01-02 22:52:37 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:53:23 [INFO] - Current Date and Time: 1/2/2025, 10:53:23 PM
+2025-01-02 22:53:24 [INFO] - Number of pending transactions: 2
+2025-01-02 22:53:24 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:53:25 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:53:25 [INFO] - details transaction :
+2025-01-02 22:53:25 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:53:25 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:53:26 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:53:26 [INFO] - details transaction :
+2025-01-02 22:53:26 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:54:03 [INFO] - Current Date and Time: 1/2/2025, 10:54:03 PM
+2025-01-02 22:54:04 [INFO] - Number of pending transactions: 2
+2025-01-02 22:54:04 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:54:06 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:06 [INFO] - details transaction :
+2025-01-02 22:54:06 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:54:06 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:54:07 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:07 [INFO] - details transaction :
+2025-01-02 22:54:07 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:54:33 [INFO] - Current Date and Time: 1/2/2025, 10:54:33 PM
+2025-01-02 22:54:33 [INFO] - Number of pending transactions: 2
+2025-01-02 22:54:33 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:54:34 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:34 [INFO] - details transaction :
+2025-01-02 22:54:34 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:54:34 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:54:35 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:35 [INFO] - details transaction :
+2025-01-02 22:54:35 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:54:53 [INFO] - Current Date and Time: 1/2/2025, 10:54:53 PM
+2025-01-02 22:54:54 [INFO] - Number of pending transactions: 2
+2025-01-02 22:54:54 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:54:55 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:55 [INFO] - details transaction :
+2025-01-02 22:54:55 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 500000,
+  "newTotalBuy": 500000
+}
+2025-01-02 22:54:55 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:54:55 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:54:56 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:54:56 [INFO] - details transaction :
+2025-01-02 22:54:56 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 50000,
+  "newTotalBuy": 50000
+}
+2025-01-02 22:54:56 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:55:20 [INFO] - Current Date and Time: 1/2/2025, 10:55:20 PM
+2025-01-02 22:55:20 [INFO] - Number of pending transactions: 2
+2025-01-02 22:55:20 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:55:22 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:55:22 [INFO] - details transaction :
+2025-01-02 22:55:22 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 500000,
+  "newTotalBuy": 500000
+}
+2025-01-02 22:55:22 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:55:22 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:55:22 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:55:22 [INFO] - details transaction :
+2025-01-02 22:55:22 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 50000,
+  "newTotalBuy": 50000
+}
+2025-01-02 22:55:22 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:57:23 [INFO] - Current Date and Time: 1/2/2025, 10:57:23 PM
+2025-01-02 22:57:24 [INFO] - Number of pending transactions: 2
+2025-01-02 22:57:24 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 22:57:25 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:57:25 [INFO] - details transaction :
+2025-01-02 22:57:25 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 500000,
+  "newTotalBuy": 500000
+}
+2025-01-02 22:57:25 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 22:57:25 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 22:57:26 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 22:57:26 [INFO] - details transaction :
+2025-01-02 22:57:26 [INFO] - {
+  "currentTotalBuy": 500000,
+  "newBuy": 50000,
+  "newTotalBuy": 550000
+}
+2025-01-02 22:57:26 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 22:59:17 [INFO] - Current Date and Time: 1/2/2025, 10:59:17 PM
+2025-01-02 22:59:17 [INFO] - Number of pending transactions: 0
+2025-01-02 22:59:25 [INFO] - Current Date and Time: 1/2/2025, 10:59:25 PM
+2025-01-02 22:59:26 [INFO] - Number of pending transactions: 0
+2025-01-02 22:59:47 [INFO] - Current Date and Time: 1/2/2025, 10:59:47 PM
+2025-01-02 22:59:48 [INFO] - Number of pending transactions: 0
+2025-01-02 22:59:51 [INFO] - Current Date and Time: 1/2/2025, 10:59:51 PM
+2025-01-02 22:59:51 [INFO] - Number of pending transactions: 6
+2025-01-02 23:00:00 [INFO] - Current Date and Time: 1/2/2025, 11:00:00 PM
+2025-01-02 23:00:00 [INFO] - Number of pending transactions: 6
+2025-01-02 23:00:00 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 23:00:01 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 23:00:01 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 23:00:02 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:00:02 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 23:00:02 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 23:00:03 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 23:00:03 [INFO] - [object Object]
+2025-01-02 23:00:03 [ERROR] - ❌ Invalid destination address detected.
+2025-01-02 23:00:03 [INFO] - ⏳ Processing transaction hash: 0x602e47935215086c958440192224dd6935a7d6d23c86f7ba4fab524b8f25f4a0
+2025-01-02 23:00:04 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 20,
+  "SenderTx": "0x4863DB6F6B70fbEA2A8918FD2B68180eDFaaab3b",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:00:04 [INFO] - [object Object]
+2025-01-02 23:00:04 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 23:00:04 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 23:00:04 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:00:04 [INFO] - details transaction :
+2025-01-02 23:00:04 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 500000,
+  "newTotalBuy": 500000
+}
+2025-01-02 23:00:04 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 23:00:04 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 23:00:05 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:00:05 [INFO] - details transaction :
+2025-01-02 23:00:05 [INFO] - {
+  "currentTotalBuy": 500000,
+  "newBuy": 50000,
+  "newTotalBuy": 550000
+}
+2025-01-02 23:00:05 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 23:01:45 [INFO] - Current Date and Time: 1/2/2025, 11:01:45 PM
+2025-01-02 23:01:46 [INFO] - Number of pending transactions: 0
+2025-01-02 23:02:17 [INFO] - Current Date and Time: 1/2/2025, 11:02:17 PM
+2025-01-02 23:02:18 [INFO] - Number of pending transactions: 6
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID 11488e0a-aff3-4b67-a97c-80b5f4798515: 
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID 16fff099-1241-4c12-8a9d-e22c48d661d4: 
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID 2388bc0c-db4e-4c8a-b199-3e13b3380a09: 
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID b4577cbc-15dc-4204-9555-2ea30dc64cd5: 
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID 96ce03cb-2482-49e3-bdce-bfef1cd402e5: 
+2025-01-02 23:02:18 [INFO] - succcess updating table transactions with ID c3ed496e-36ba-4402-aeaa-57a2a48c33df: 
+2025-01-02 23:02:30 [INFO] - Current Date and Time: 1/2/2025, 11:02:30 PM
+2025-01-02 23:02:31 [INFO] - Number of pending transactions: 6
+2025-01-02 23:02:31 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 23:02:32 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:02:32 [INFO] - details transaction :
+2025-01-02 23:02:32 [INFO] - {
+  "currentTotalBuy": 550000,
+  "newBuy": 500000,
+  "newTotalBuy": 1050000
+}
+2025-01-02 23:02:32 [INFO] - succcess updating table users with ID 92ed8972-6f17-4718-a44a-48417bbabdc6: 
+2025-01-02 23:02:32 [INFO] - succcess updating table transactions with ID 11488e0a-aff3-4b67-a97c-80b5f4798515: 
+2025-01-02 23:02:32 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 23:02:32 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 23:02:33 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:02:33 [INFO] - details transaction :
+2025-01-02 23:02:33 [INFO] - {
+  "currentTotalBuy": 1050000,
+  "newBuy": 50000,
+  "newTotalBuy": 1100000
+}
+2025-01-02 23:02:33 [INFO] - succcess updating table users with ID 92ed8972-6f17-4718-a44a-48417bbabdc6: 
+2025-01-02 23:02:33 [INFO] - succcess updating table transactions with ID 16fff099-1241-4c12-8a9d-e22c48d661d4: 
+2025-01-02 23:02:33 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 23:02:33 [INFO] - ⏳ Processing transaction hash: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 23:02:34 [INFO] - succcess updating table transactions with ID 2388bc0c-db4e-4c8a-b199-3e13b3380a09: 
+2025-01-02 23:02:34 [ERROR] - ❌ Failed to decode transaction: 0x4151d15cf6adf244572530e94e9ef5dabfb037731319f877c85b7cc69fa8f13c
+2025-01-02 23:02:34 [INFO] - ⏳ Processing transaction hash: 0x68955eaadf102ebc7b8ad7727abb433375a8f33d1f4a2c254cd13586c94f0d29
+2025-01-02 23:02:35 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 1000,
+  "SenderTx": "0xca83D76fb61fBA7a90C7D75e746946efb7678008",
+  "contractTx": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:02:35 [INFO] - succcess updating table transactions with ID b4577cbc-15dc-4204-9555-2ea30dc64cd5: 
+2025-01-02 23:02:35 [ERROR] - ❌ Invalid contract address detected.
+2025-01-02 23:02:35 [INFO] - ⏳ Processing transaction hash: 0x26c35451d67a7291d23bd0ba2c181d387eb729929fc09f6e64dbe4cbee581b02
+2025-01-02 23:02:35 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 100000,
+  "SenderTx": "0xd8de9359E807668dC808D70305ECe47Ecef7b7bD",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x47717797FD2ccC1C1B3B98Ee8FF89B9069b420F5"
+}
+2025-01-02 23:02:35 [INFO] - [object Object]
+2025-01-02 23:02:35 [INFO] - succcess updating table transactions with ID 96ce03cb-2482-49e3-bdce-bfef1cd402e5: 
+2025-01-02 23:02:35 [ERROR] - ❌ Invalid destination address detected.
+2025-01-02 23:02:35 [INFO] - ⏳ Processing transaction hash: 0x602e47935215086c958440192224dd6935a7d6d23c86f7ba4fab524b8f25f4a0
+2025-01-02 23:02:36 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 20,
+  "SenderTx": "0x4863DB6F6B70fbEA2A8918FD2B68180eDFaaab3b",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:02:36 [INFO] - [object Object]
+2025-01-02 23:02:36 [INFO] - succcess updating table transactions with ID c3ed496e-36ba-4402-aeaa-57a2a48c33df: 
+2025-01-02 23:02:36 [ERROR] - ❌ Invalid sender address detected.
+2025-01-02 23:05:44 [INFO] - Current Date and Time: 1/2/2025, 11:05:44 PM
+2025-01-02 23:05:45 [INFO] - Number of pending transactions: 0
+2025-01-02 23:06:52 [INFO] - Current Date and Time: 1/2/2025, 11:06:52 PM
+2025-01-02 23:06:53 [INFO] - Number of pending transactions: 2
+2025-01-02 23:06:53 [INFO] - ⏳ Processing transaction hash: 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9
+2025-01-02 23:06:54 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 50,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:06:54 [INFO] - details transaction :
+2025-01-02 23:06:54 [INFO] - {
+  "currentTotalBuy": 0,
+  "newBuy": 500000,
+  "newTotalBuy": 500000
+}
+2025-01-02 23:06:54 [INFO] - succcess updating table users with ID 92ed8972-6f17-4718-a44a-48417bbabdc6: 
+2025-01-02 23:06:54 [INFO] - succcess updating table transactions with ID 11488e0a-aff3-4b67-a97c-80b5f4798515: 
+2025-01-02 23:06:54 [INFO] - ✅ Transaction 0x80caf1e6ef2dd9280f2ec0811bf08d0cc9c03d9be4662128606f371399677ae9 passed all validations.
+2025-01-02 23:06:54 [INFO] - ⏳ Processing transaction hash: 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7
+2025-01-02 23:06:55 [INFO] - ⌛ Decoded transaction details: {
+  "fixAMount": 5,
+  "SenderTx": "0xdF866a851c49d539D2b84E0de3521C22C701CAd5",
+  "contractTx": "0x2Aa054aA3D8aA69bBD51FA0F12c41b6bCbe69511",
+  "destinationTx": "0x7d0214dB9b55a00B2c285d17f5299E3cdd190F78"
+}
+2025-01-02 23:06:55 [INFO] - details transaction :
+2025-01-02 23:06:55 [INFO] - {
+  "currentTotalBuy": 500000,
+  "newBuy": 50000,
+  "newTotalBuy": 550000
+}
+2025-01-02 23:06:55 [INFO] - succcess updating table users with ID 92ed8972-6f17-4718-a44a-48417bbabdc6: 
+2025-01-02 23:06:55 [INFO] - succcess updating table transactions with ID 16fff099-1241-4c12-8a9d-e22c48d661d4: 
+2025-01-02 23:06:55 [INFO] - ✅ Transaction 0x67e0e90caab4f66c82f8c37da73c6d7dd73a00c9e5228a97253166e2853184e7 passed all validations.
+2025-01-02 23:07:28 [INFO] - Current Date and Time: 1/2/2025, 11:07:28 PM
+2025-01-02 23:07:28 [INFO] - Number of pending transactions: 0
+2025-01-02 23:08:51 [INFO] - Current Date and Time: 1/2/2025, 11:08:51 PM
+2025-01-02 23:08:52 [INFO] - Number of pending transactions: 0
+2025-01-02 23:08:52 [INFO] - Current Date and Time: 1/2/2025, 11:08:52 PM
+2025-01-02 23:08:53 [INFO] - Number of pending transactions: 0
