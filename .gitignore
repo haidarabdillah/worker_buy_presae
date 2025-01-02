@@ -16,7 +16,7 @@ yarn-error.log*
 yarn.log*
 yarn.lock
 package-lock.json
-presale-job.log
+presale-job.log*
 
 # Editor directories and files
 .idea
